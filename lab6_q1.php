@@ -7,7 +7,7 @@
 <?php
 $name = "Ahmad Zarruq";
 $matricNo = "CI230022";
-$course = "Bachelor of Information Technology;";
+$course = "Bachelor of Information Technology";
 $yearofstudy = "3rd Years";
 $address = "Kolej Kediaman Tun Syed Nasir";
 ?>

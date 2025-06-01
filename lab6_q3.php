@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Rectangle Area Calculator</title>
+    <title>Lab6 Q3</title>
 </head>
 <body>
 
 <?php
-// Function to calculate the area of a rectangle
 function calculateArea($length, $width) {
     return $length * $width;
 }
